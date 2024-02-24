@@ -2,3 +2,5 @@ Sample text added to forked repo-1
 
 
 edited sample text
+
+Updated text after rule creation
