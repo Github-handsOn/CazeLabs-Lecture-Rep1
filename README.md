@@ -1,2 +1,2 @@
-# CazeLabs-Lecture-Rep1
-CazeLabs-Lecture-Rep1
+# CazeLabs-Lecture-Repo1
+CazeLabs-Lecture-Repo1
